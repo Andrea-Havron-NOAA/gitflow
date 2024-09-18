@@ -1,3 +1,3 @@
 myfun <- function(){
-  print("Helo Word")
+  print("Hello World")
 }
